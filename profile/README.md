@@ -1,8 +1,8 @@
 # PaddockPlanner
 PaddockPlanner is a web app project for keeping your *Umamusume* training information in one place: browse characters, view skills and stats and compare support cards.
 
-[!IMPORTANT]  
-This project is a work in progress and will not have a production site until we are completely happy with the application.
+> [!IMPORTANT]
+> This project is a work in progress and will not have a production site until we are completely happy with the application.
 
 ## What it’s for
 - Browse Umamusume and view relevant stats at a glance
